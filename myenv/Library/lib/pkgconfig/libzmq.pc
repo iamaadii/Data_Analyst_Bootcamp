@@ -1,0 +1,12 @@
+prefix=d:/Data_Analyst_Bootcamp/myenv/Library
+exec_prefix=d:/Data_Analyst_Bootcamp/myenv/Library
+libdir=d:/Data_Analyst_Bootcamp/myenv/Library/lib
+includedir=d:/Data_Analyst_Bootcamp/myenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
