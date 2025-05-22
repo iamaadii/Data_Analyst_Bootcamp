@@ -1,0 +1,8 @@
+2025-05-14 15:15:01 - ArithmeticApp - DEBUG - 12 + 10 = 22
+2025-05-14 15:15:01 - ArithmeticApp - DEBUG - 52 - 47 = 5
+2025-05-14 15:15:01 - ArithmeticApp - DEBUG - 12 * 4 = 48
+2025-05-14 15:15:01 - ArithmeticApp - DEBUG - 63 / 9 = 7.0
+2025-05-14 15:15:47 - ArithmeticApp - DEBUG - 12 + 10 = 22
+2025-05-14 15:15:47 - ArithmeticApp - DEBUG - 52 - 47 = 5
+2025-05-14 15:15:47 - ArithmeticApp - DEBUG - 12 * 4 = 48
+2025-05-14 15:15:47 - ArithmeticApp - ERROR - Divison by zero
